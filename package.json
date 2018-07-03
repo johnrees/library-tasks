@@ -1,0 +1,19 @@
+{
+  "name": "library-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "unfetch": "^3.0.0"
+  }
+}

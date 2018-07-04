@@ -13,7 +13,8 @@
     "typescript": "^2.9.2"
   },
   "dependencies": {
+    "lodash": "^4.17.10",
     "node-fetch": "^2.1.2",
-    "unfetch": "^3.0.0"
+    "sentient-isbn": "mudge/sentient-isbn"
   }
 }
